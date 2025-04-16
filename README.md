@@ -1,5 +1,5 @@
 # Gioco-del-TRIS
-Progetto del gioco del Tris (Tic-Tac-Toe) scritto in Java come esercizio per l'esame universitario
+Progetto del gioco del Tris (Tic-Tac-Toe) scritto in Java come esercizio per l'esame di java.
 
 Questo progetto è una semplice implementazione del gioco del Tris (Tic-Tac-Toe) scritto in Java, sviluppato come parte di un esercizio per l'esame universitario di Java.
 
